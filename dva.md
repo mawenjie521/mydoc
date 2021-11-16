@@ -15,12 +15,6 @@
 
 - 6.配置路径代理，先在config/paths.js中添加指定路径；再在config/webpack.config.js中指定alias；最后在tsconfig.json中配置；
 
-- 7.ui地址： https://relay.jd.com/web/project/f6a43d3c-6e2b-45b7-a309-dcae39f73557#0_4105df16-d7a2-4c48-ba3c-b2a6a3c9d047
-
-- 8.本地调试
-    pc端为： http://localhost:3000?defaultpage=TranslationPage //defaultpage为应用组件名称
-    移动端为： http://localhost:3000/mobile.html?defaultpage=TranslationPage //defaultpage为应用组件名称
-
 ### 开发说明
 
 - 1.pc和mobile目录下再区分不同的应用，比如 translation应用
